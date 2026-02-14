@@ -1,4 +1,4 @@
-# Tchell
+# Fresh
 
 A minimalistic Unix shell implementation written in C, demonstrating fundamental systems
 programming concepts and shell functionality.
